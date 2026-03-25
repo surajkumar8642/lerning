@@ -1,0 +1,140 @@
+Suraj Kumar
+Senior Software Developer (.NET Core | Azure | AWS | Microservices) | Cloud Integration & Technical Team Lead
+📍 Nalanda, Bihar, India – 803113
+📞 Phone: +91 8809777593            HTWPK9577E
+📧 Email: surajkumar8642@gmail.com
+ 🔗 GitHub: github.com/surajkumar8642
+🔗 LinkedIn: linkedin.com/in/suraj-kumar-5075bb184
+
+🔹 Profile Summary
+Key Technologies: .NET 8, ASP.NET Core, Microservices, Azure, SQL Server, Blazor, React.js, Docker, Kubernetes, Azure DevOps
+Highly skilled Senior .NET Developer with 6 years of experience in architecting and developing cloud-native applications using .NET Core, Azure, AWS, and Microservices. Proven expertise in API development, SQL performance tuning, and DevOps automation. Adept at designing scalable systems, integrating third-party APIs, and leading teams toward efficient, maintainable, and high-performance solutions. Passionate about building modern distributed systems and adopting cutting-edge tools like Docker, Kubernetes, and AI-assisted development (ChatGPT, GitHub Copilot).
+
+🔹 Architectural Expertise
+System Design: Domain-driven design, event-driven microservices, and clean architecture.
+
+
+Integration: REST APIs, gRPC, message queues (RabbitMQ / Azure Service Bus).
+
+
+Cloud & DevOps: Azure Functions, App Services, Docker, Kubernetes, CI/CD pipelines, Azure OpenAi.
+
+
+Security: OAuth2, JWT, Azure AD, and role-based access control.
+
+
+Performance: SQL optimization, caching (Redis), and load balancing for scalability.
+
+🔹 Core Technical Skills
+ Backend & Frameworks: .NET 8, C#, Vb.net, ASP.NET Core, Web API, MVC, Blazor
+ Cloud Platforms: Microsoft Azure (App Services, Functions, Service Bus), AWS (EC2, Lambda, S3, RDS)
+ Architecture: Microservices, Clean Architecture, DDD, CQRS
+ DevOps & Containers: Docker, Kubernetes, Azure DevOps, Jenkins, CI/CD Pipelines
+ Database: MS SQL Server, EF Core, Dapper, PostgreSQL, MongoDB, Performance Tuning, Indexing
+ Frontend: React.js, Bootstrap, Razor Pages
+ Security: OAuth2, JWT, Azure AD, Role-based Access
+ Versioning & Tools: Git, Postman, Jira, Trello, Agile/Scrum
+
+
+🔹 Professional Experience
+Senior .NET Developer / Technical Team Lead
+ Dynode Software Technology Pvt. Ltd. | Jan 2020 – Present
+Designed and developed enterprise-grade .NET Core applications using microservices architecture.
+
+
+Implemented Azure- and AWS-based cloud solutions leveraging Functions, App Services, and containers.
+
+
+Migrated multiple legacy .NET Framework applications to .NET 8, improving scalability and maintainability.
+
+
+Led a 12-member team in applying Clean Architecture, DDD, and SOLID principles.
+
+
+Designed APIs, optimized SQL performance, and automated deployments via Azure DevOps CI/CD pipelines.
+
+🔹 Major Projects
+Hospital Management System (US-Based) – Role: Senior .NET Developer (Backend & Architecture)
+PMS Windows Application (Accounting & GST) – Role: Core Module Developer
+E-Commerce Order Management Web App – Role: API Developer & Integrations Lead
+Sales Analytics Dashboard (React.js) – Role: API & Dashboard 
+Internal Admin Panel (Blazor) – Role: Full Stack Developer (Blazor & .NET Core)
+🔸 Hospital Management System (US-Based)
+Tech Stack: .NET Core (Microservices), React.js, SQL Server, Azure DevOps,Azure OpenAi, GitHub Copilot
+ Role: Solution Architect & Lead Developer
+ Key Contributions:
+Architected microservices-based backend defining domain boundaries and service communication.
+
+
+Designed and deployed Azure-based CI/CD pipelines.
+
+
+Led React.js frontend integration and implemented JWT-based authentication.
+
+
+Integrated APIs for labs, insurance, and payment gateways.
+
+
+Improved system performance by 30% via query optimization, caching, and async processing.
+Impact:
+ Streamlined hospital operations, reduced manual record-keeping errors by 60%, and improved patient engagement through a responsive web interface.
+🔸 PMS Windows Application – Accounting & GST Software
+ A robust desktop-based accounting suite for Indian businesses with full GST compliance.
+Developed and maintained core financial modules (billing, ledgers, tax calculations).
+Built real-time reports and dashboards for business insights.
+Implemented automation for purchase orders, invoicing, and inventory control.
+🔸 E-Commerce Order Management Web Application (ASP.NET MVC, SQL Server)
+ A platform for retailers and distributors to manage product orders, customers, and inventory.
+Built secure RESTful APIs for integration with PMS and external services.
+Implemented role-based access control and authentication.
+Enabled real-time tracking of orders, reducing support calls by 60%.
+
+
+🔸 Sales Analytics Dashboard (React.js)
+ Dynamic web dashboard for monitoring sales KPIs and executive summaries.
+Built modular React components for data visualizations and filters.
+
+
+Integrated backend APIs for fetching live transactional data.
+
+
+Implemented JWT-based authentication and session control.
+
+
+🔸 Internal Admin Panel (Blazor)
+ Used for managing employee profiles, attendance, and HR workflows.
+Developed a responsive Blazor UI using server-side components.
+
+
+Integrated with existing .NET Core APIs for CRUD and analytics operations.
+✔ Developed REST APIs serving over 5K active users daily.
+✔ Migrated 10+ legacy apps to .NET Core, reducing hosting cost by 25%.
+
+
+🔹 Career Objective
+Dedicated Senior Software Developer (.NET Core | Azure | AWS | Microservices) seeking to contribute to the development of scalable, cloud-native enterprise systems. Focused on delivering high-quality, secure, and maintainable software solutions through modern architecture patterns and collaborative leadership.
+
+🔹 Education
+🎓 Master of Computer Applications (MCA) 
+
+🔹 Tools & Technologies
+IDEs: Visual Studio, VS Code, SSMS
+Project Management: Jira, Azure DevOps
+Database Tools: SQL Profiler, RedGate
+Build Tools: Node.js, npm, Webpack
+Deployment: Azure App Services, IIS, Docker
+
+🔹 Hobbies & Interests
+🎸 Playing Guitar
+ 📚 Learning New Technologies & Software Trends
+ 💻 Building Open-Source Projects & Exploring Cloud Computing
+
+🔹 Why Hire Me
+• 6+ years of hands-on .NET Core and microservices experience
+• Proven success in system architecture and cross-functional team leadership
+• Skilled in Azure cloud integration, CI/CD automation, and SQL optimization
+• Passionate about leveraging AI tools (Azure OpenAi,ChatGPT, Copilot) for productivity and innovation
+
+📌 Open to Solution Architect or Senior .NET Developer roles focused on scalable, cloud-native systems.
+
+
