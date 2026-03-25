@@ -24,9 +24,10 @@ Study in this order:
 
 1. interview communication
 2. networking and system design
-3. cloud links and samples
-4. testing
-5. code repositories
+3. projects, tools, and technology usage
+4. cloud links and samples
+5. testing
+6. code repositories
 
 ## 1. Interview and Communication
 
@@ -74,7 +75,19 @@ Suggested order:
 8. explain each diagram aloud in simple language
 9. record a short topic-wise video
 
-## 4. Cloud Links and References
+## 4. Projects, Tools, and Technology Usage
+
+- [project-tool-technology-study-guide.md](C:\Work\lerarn\VideoCreate\study-docs-repo\docs\projects\project-tool-technology-study-guide.md)
+
+Suggested order:
+
+1. read the project sections first
+2. then study technologies one by one
+3. answer aloud:
+   where used, why used, what problem solved
+4. record short video explanations topic by topic
+
+## 5. Cloud Links and References
 
 - [codex-credits.md](C:\Work\lerarn\VideoCreate\docs\cloud\codex-credits.md)
 - [aws-azure-github-links.md](C:\Work\lerarn\VideoCreate\docs\cloud\aws-azure-github-links.md)
@@ -85,7 +98,7 @@ Suggested order:
 1. `aws-azure-github-links.md`
 2. `aws-azure-links-by-service.md`
 
-## 5. Testing
+## 6. Testing
 
 - [unit-testing-study-materials.md](C:\Work\lerarn\VideoCreate\docs\testing\unit-testing-study-materials.md)
 
@@ -95,11 +108,11 @@ Suggested order:
 2. open GitHub links from the file
 3. study xUnit, Moq, FluentAssertions first
 
-## 6. EspoCRM Notes
+## 7. EspoCRM Notes
 
 - [espocrm-company-branding-guide.md](C:\Work\lerarn\VideoCreate\docs\espocrm\espocrm-company-branding-guide.md)
 
-## 7. Study Code and Repositories
+## 8. Study Code and Repositories
 
 ### Top-level cloned repos
 
@@ -110,7 +123,7 @@ Suggested order:
 - [aws-official-samples](C:\Work\lerarn\VideoCreate\aws-official-samples)
 - [azure-official-samples](C:\Work\lerarn\VideoCreate\azure-official-samples)
 
-## 8. Best Cloud Code to Study First
+## 9. Best Cloud Code to Study First
 
 ### AWS
 
@@ -125,7 +138,17 @@ Suggested order:
 - [azureai-samples](C:\Work\lerarn\VideoCreate\azure-official-samples\azureai-samples)
 - [azure-devops-docs-sdk-dotnet](C:\Work\lerarn\VideoCreate\azure-official-samples\azure-devops-docs-sdk-dotnet)
 
-## 9. Recommended Study Path for Cloud
+## 10. Recommended Study Path for Projects and Technology
+
+1. read [project-tool-technology-study-guide.md](C:\Work\lerarn\VideoCreate\study-docs-repo\docs\projects\project-tool-technology-study-guide.md)
+2. choose one project
+3. explain the architecture and business problem
+4. choose one technology
+5. answer:
+   where used, why used, what problem solved
+6. record a short practice video
+
+## 11. Recommended Study Path for Cloud
 
 ### AWS path
 
@@ -142,7 +165,7 @@ Suggested order:
 2. browse [azureai-samples](C:\Work\lerarn\VideoCreate\azure-official-samples\azureai-samples)
 3. browse [azure-devops-docs-sdk-dotnet](C:\Work\lerarn\VideoCreate\azure-official-samples\azure-devops-docs-sdk-dotnet)
 
-## 10. Recommended Study Path for System Design
+## 12. Recommended Study Path for System Design
 
 1. read [system-design-study-materials.md](C:\Work\lerarn\VideoCreate\docs\system-design\system-design-study-materials.md)
 2. understand the difference between:
@@ -157,7 +180,7 @@ Suggested order:
 10. explain your diagram in your own words
 11. record a short video summary
 
-## 11. Recommended Learn-to-Video Workflow
+## 13. Recommended Learn-to-Video Workflow
 
 1. read [study-workflow-and-video-plan.md](C:\Work\lerarn\VideoCreate\docs\study-workflow-and-video-plan.md)
 2. choose one topic from system design or testing
@@ -167,7 +190,7 @@ Suggested order:
 6. explain it aloud
 7. record a short learning video
 
-## 12. Recommended Study Path for Testing
+## 14. Recommended Study Path for Testing
 
 1. read [unit-testing-study-materials.md](C:\Work\lerarn\VideoCreate\docs\testing\unit-testing-study-materials.md)
 2. study xUnit
@@ -176,7 +199,7 @@ Suggested order:
 5. study integration tests
 6. add tests in your own project
 
-## 13. Workspace Note
+## 15. Workspace Note
 
 Your document files are now grouped under `docs/`.
 
