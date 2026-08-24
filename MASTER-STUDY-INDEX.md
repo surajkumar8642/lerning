@@ -1,6 +1,6 @@
 # Master Study Index
 
-Last updated: March 23, 2026
+Last updated: August 24, 2026
 
 This is the main starting point for your study material in this workspace.
 
@@ -204,3 +204,8 @@ Suggested order:
 Your document files are now grouped under `docs/`.
 
 Some cloned code folders still remain at the top level because directory moves were blocked in this environment, so this index points to their current real locations.
+
+## 16. Hands-on Study Projects
+
+- [StudyPlanner](projects/StudyPlanner/README.md) - a .NET 8 console app for
+  practicing classes, validation, collections, LINQ, and xUnit tests.
